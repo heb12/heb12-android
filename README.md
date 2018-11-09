@@ -3,12 +3,8 @@ This is a simple android prototype of Heb12 made in MIT's App Inventor. Please n
 
 This app is based on [Heb12 Desktop](https://github.com/heb12/heb12). It was started by @Pufflegamerz. 
 
-## Planned Additions for 1.2
-1. Settings
-2. Bookmark
-3. Favorites
-4. Notes
-5. Custom themes, text styles, and translations
+## Planned Additions for 1.3
+1. 
 
-## Planned Bug Fixes for 1.2
-1. Books with spaces in them will not load
+## Planned Bug Fixes for 1.3
+1. Custom point size not working
